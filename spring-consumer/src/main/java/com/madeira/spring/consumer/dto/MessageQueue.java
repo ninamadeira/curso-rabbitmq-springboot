@@ -1,4 +1,4 @@
-package com.madeira.spring.producer.dto;
+package com.madeira.spring.consumer.dto;
 
 import lombok.Getter;
 import lombok.NoArgsConstructor;
